@@ -11,13 +11,13 @@ import (
 	"strings"
 )
 
-const imgPath string = "./data/interim/images/"
-const csvPath string = "./data/raw/inaturalist/2017.csv"
-const numberOfWorker int = 24
-const urlIndex int = 12
-const nameIndex int = 32
-const reportRate = 100 // report progress every 100 download
-var r, _ = regexp.Compile("[0-9]+$")
+const imgPath string = "../../data/images/"
+const csvPath string = "../../data/raw/inaturalist/observations-spain-2000-2026.csv"
+const numberOfWorker int = 1
+const urlIndex int = 13  //13  // On CSV, column named "image_url"
+const nameIndex int = 24 //36 // On CSV, column named "scientific_name"
+const reportRate = 100   // report progress every 100 download
+var r, _ = regexp.Compile("/photos/([0-9]+)/medium.jpg$")
 
 type data struct {
 	url  string
@@ -45,6 +45,7 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
+		//fmt.Print(line)
 
 		/* get rid of lichen from fungi dataset */
 		if !strings.Contains(line[nameIndex], "lichen") {
@@ -54,7 +55,7 @@ func main() {
 			})
 		}
 	}
-
+	//fmt.Print(queue[0])
 	queue = queue[1:] // remove title row
 
 	/* init worker */
@@ -99,18 +100,21 @@ func worker(input chan data, done chan bool) {
 	}
 
 	index := r.FindStringSubmatch(url)
+	//fmt.Print(index[1])
 
-	file, err := os.Create(path + strings.Join(index, "") + ".jpg")
-	if err != nil {
-		log.Println(err)
-		return
-	}
-	defer file.Close()
+	if len(index) > 0 {
+		file, err := os.Create(path + index[1] + ".jpg")
+		if err != nil {
+			log.Println(err)
+			return
+		}
+		defer file.Close()
 
-	_, err = io.Copy(file, resp.Body)
-	if err != nil {
-		log.Println(err)
-		return
+		_, err = io.Copy(file, resp.Body)
+		if err != nil {
+			log.Println(err)
+			return
+		}
 	}
 
 	done <- true

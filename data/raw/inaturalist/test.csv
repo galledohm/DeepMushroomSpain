@@ -1,0 +1,619 @@
+﻿id,observed_on_string,observed_on,time_observed_at,time_zone,user_id,user_login,user_name,created_at,updated_at,quality_grade,license,url,image_url,description,num_identification_agreements,num_identification_disagreements,captive_cultivated,place_guess,latitude,longitude,positional_accuracy,public_positional_accuracy,geoprivacy,scientific_name,common_name,taxon_id
+106537,6/16/2012,6/16/2012,,Amsterdam,1948,bjsmit,BJ Smit,2012-07-28 14:35:12 UTC,2025-09-22 19:14:11 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/106537,https://inaturalist-open-data.s3.amazonaws.com/photos/153149/medium.jpg,,3,1,FALSE,spain,42.37086031,2.785606751,,,,Mycenastrum corium,,128578
+216689,3/13/2013,3/13/2013,,Madrid,14046,gennita,Natalia,2013-03-15 18:21:43 UTC,2013-03-15 18:21:43 UTC,casual,CC-BY-NC,http://www.inaturalist.org/observations/216689,,,0,0,FALSE,"o grove, pontevedra, es",42.49857436,-8.883862495,,,,Hydropunctaria maura,,197141
+262346,5/11/2013 13:26,5/11/2013 0:00,2013-05-11 11:26:12 UTC,Copenhagen,4859,dhobern,Donald Hobern,2013-05-11 19:17:06 UTC,2024-12-27 07:50:05 UTC,research,CC0,http://www.inaturalist.org/observations/262346,https://inaturalist-open-data.s3.amazonaws.com/photos/325198/medium.jpg,"<i>Clathrus ruber</i> P.Micheli ex Pers. (1801), Parc GÃ¼ell, Barcelona, Spain, 11 May 2013",4,0,FALSE,"Barcelona, Catalonia, Spain",41.414088,2.151131,,,,Clathrus ruber,Hongo jaula roja,56534
+356783,6/9/2013,6/9/2013,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2013-08-04 22:34:25 UTC,2025-01-03 18:14:18 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/356783,https://inaturalist-open-data.s3.amazonaws.com/photos/445158/medium.jpg,,4,0,FALSE,"Vallvidrera, Collcerola mountains, Barcelona, Spain.",41.420662,2.101527,32,32,,Clathrus ruber,Hongo jaula roja,56534
+434737,dom oct 20 2013 19:09:48 GMT+0200 (GMT+2),10/20/2013,2013-10-20 18:09:48 UTC,Casablanca,20642,ceciliacarrasco,Cecilia Carrasco,2013-10-20 17:16:36 UTC,2025-08-12 00:52:33 UTC,research,,http://www.inaturalist.org/observations/434737,https://static.inaturalist.org/photos/547702/medium.jpg,,9,0,FALSE,"Parque Regional de la Cuenca Alta del Manzanares, Mataelpino, Comunidad de Madrid, ES",40.735665,-3.946038,30,30,,Amanita muscaria,hongo matamoscas,48715
+761021,2014-06-28 9:26:36 a.m. CEST,6/28/2014,2014-06-28 07:26:36 UTC,Paris,42171,paufortuno,Pau fortuÃ±o estrada,2014-06-30 19:21:32 UTC,2024-06-10 07:41:56 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/761021,https://inaturalist-open-data.s3.amazonaws.com/photos/956634/medium.jpg,,2,0,FALSE,"Huesca, ES-AR, ES",42.4818922,0.1461734,2732,2732,,Phallus impudicus,falo hediondo,54594
+790753,5/5/2014,5/5/2014,,Madrid,2608,xbejard,Xavier BÃ©jar,2014-07-18 22:56:30 UTC,2021-07-13 12:34:32 UTC,research,CC-BY-NC-SA,http://www.inaturalist.org/observations/790753,https://inaturalist-open-data.s3.amazonaws.com/photos/994495/medium.jpg,,1,0,FALSE,"Girona, ES-CT, ES",42.05568909,2.54644006,98,27692,obscured,Marasmius oreades,senderuela,118240
+812047,8/1/2014,8/1/2014,,Madrid,46638,molluria,,2014-08-01 18:52:19 UTC,2021-11-02 13:01:37 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/812047,https://inaturalist-open-data.s3.amazonaws.com/photos/1023897/medium.jpg,"Bolet de tardor, vist en ple juliol grÃ cies a  les pluges tan abundants caigudes",5,0,FALSE,Riells i viabrea,41.727668,2.54467,1989,1989,,Clathrus ruber,Hongo jaula roja,56534
+818677,7/29/2014,7/29/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-06 00:22:00 UTC,2022-05-30 21:52:02 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/818677,https://inaturalist-open-data.s3.amazonaws.com/photos/1032644/medium.JPG,,2,0,FALSE,"Souto de Doncos, As Nogais, Lugo, Spain.",42.792208,-7.096841,,,,Neoboletus erythropus,,553907
+845113,8/23/2014 11:24,8/23/2014,2014-08-23 09:24:16 UTC,Paris,45084,serraquim,Quim,2014-08-24 10:30:25 UTC,2025-08-12 01:08:12 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/845113,https://inaturalist-open-data.s3.amazonaws.com/photos/1070043/medium.jpg,Amanites en bosc esclarissat de pi negre subalpÃ­,6,0,FALSE,"Pujant al cim del Costabona, RipollÃ¨s, Catalunya",42.406791,2.343521,97,97,,Amanita muscaria,hongo matamoscas,48715
+850954,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-27 23:14:57 UTC,2022-10-18 11:39:28 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/850954,https://inaturalist-open-data.s3.amazonaws.com/photos/1077589/medium.jpg,,3,0,FALSE,"El Salteguet forest, Collada de Tosses, Girona, Spain.",42.343978,1.983579,,,,Boletus edulis,Hongo cemita rey,48701
+850959,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-27 23:23:11 UTC,2019-09-02 00:39:08 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/850959,https://inaturalist-open-data.s3.amazonaws.com/photos/1077596/medium.jpg,,3,0,FALSE,"El Salteguet forest, Collada de Tosses, Girona, Spain.",42.344082,1.983891,,,,Caloboletus calopus,,701434
+850971,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-27 23:42:22 UTC,2024-03-24 20:45:08 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/850971,https://inaturalist-open-data.s3.amazonaws.com/photos/1077615/medium.jpg,,1,2,FALSE,"El Salteguet forest, Collada de Tosses, Girona, Spain.",42.343947,1.985511,,,,Lactarius deliciosus,enchilado,155197
+851004,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-28 00:02:34 UTC,2022-10-18 11:39:31 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/851004,https://inaturalist-open-data.s3.amazonaws.com/photos/1077678/medium.jpg,,3,0,FALSE,"Meranges forest, La Cerdanya comarque, Gerona, Spain.",42.428161,1.779292,,,,Boletus edulis,Hongo cemita rey,48701
+851024,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-28 00:15:40 UTC,2018-01-08 14:48:48 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/851024,https://inaturalist-open-data.s3.amazonaws.com/photos/1077720/medium.jpg,,1,0,FALSE,"Meranges forest, La Cerdanya comarque, Gerona, Spain.",42.444749,1.7669,,,,Lactarius deliciosus,enchilado,155197
+851033,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-28 00:24:44 UTC,2018-08-25 07:24:36 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/851033,https://inaturalist-open-data.s3.amazonaws.com/photos/1077738/medium.jpg,,3,0,FALSE,"Meranges forest, La Cerdanya comarque, Gerona, Spain.",42.441266,1.769818,,,,Cantharellus cibarius,Rebozuelo,47347
+851037,8/27/2014,8/27/2014 0:00,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-28 00:32:35 UTC,2018-11-30 15:22:23 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/851037,https://inaturalist-open-data.s3.amazonaws.com/photos/1077745/medium.jpg,,2,0,FALSE,"Meranges forest, La Cerdanya comarque, Gerona, Spain.",42.429428,1.778455,,,,Chroogomphus rutilus,pata de perdiz,194275
+851043,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-28 00:43:21 UTC,2024-05-24 16:08:03 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/851043,https://inaturalist-open-data.s3.amazonaws.com/photos/1077753/medium.jpg,,6,0,FALSE,"Meranges forest, La Cerdanya comarque, Gerona, Spain.",42.427891,1.777253,,,,Amanita muscaria,hongo matamoscas,48715
+851715,8/27/2014,8/27/2014,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2014-08-28 17:13:06 UTC,2018-01-13 16:17:59 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/851715,https://inaturalist-open-data.s3.amazonaws.com/photos/1078683/medium.jpg,"Cecidium or gall, produced by the fungus Exobasidium rhododendri in the leaves of the shrub Rhododendron ferrugineum.",1,0,FALSE,"Meranges forest, La Cerdanya comarque, Gerona, Spain.",42.436792,1.770601,,,,Exobasidium rhododendri,,366953
+865043,2014-09-07 8:08:12 AM GMT+01:00,9/7/2014,2014-09-07 06:08:12 UTC,Amsterdam,47207,javiercasadocuyas,,2014-09-07 07:13:27 UTC,2023-03-22 11:34:19 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/865043,https://inaturalist-open-data.s3.amazonaws.com/photos/1097583/medium.jpg,,5,0,FALSE,"Las Palmas, ES-CN, ES",28.071109,-15.546706,116,116,,Laurobasidium lauri,,542412
+870747,mar jun 24 2014 10:57:46 GMT+0200 (GMT+2),6/24/2014,2014-06-24 08:57:46 UTC,Africa/Johannesburg,45070,mugrini,mugrini,2014-09-11 14:47:09 UTC,2020-12-02 12:12:43 UTC,research,,http://www.inaturalist.org/observations/870747,https://static.inaturalist.org/photos/1105620/medium.jpg,,2,0,FALSE,"21740, Hinojos, AndalucÃ­a, ES",37.119625,-6.438077,596,596,,Auricularia auricula-judae,Oreja de Judas,50813
+918786,2014-10-10 6:52:57 pm CEST,10/10/2014,2014-10-10 16:52:57 UTC,Paris,42171,paufortuno,Pau fortuÃ±o estrada,2014-10-11 06:56:05 UTC,2026-01-17 22:16:25 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/918786,https://inaturalist-open-data.s3.amazonaws.com/photos/1173727/medium.JPG,Diferents fases de l'Ou de Reig,8,1,FALSE,"Barcelona, ES-CT, ES",41.44490009,2.084541097,688,688,,Amanita caesarea,Yema de huevo,204588
+1030486,10/22/2014,10/22/2014,,Pacific Time (US & Canada),27263,wendy5,Wendy Feltham,2014-10-22 16:26:55 UTC,2024-09-24 03:34:03 UTC,research,,http://www.inaturalist.org/observations/1030486,https://inaturalist-open-data.s3.amazonaws.com/photos/1292692/medium.jpg,"This lovely gilled mushroom was growing beside the road with a few other similar mushrooms. It was large--about 6"" tall and 5"" across-- with a distinct ring on its stem.",4,0,FALSE,"Cartella, Spain",42.051951,2.733918,,,,Macrolepiota procera,Matacandil,63401
+1165643,2014-12-29 12:00:08 p.m. CET,12/29/2014,2014-12-29 11:00:08 UTC,Paris,42171,paufortuno,Pau fortuÃ±o estrada,2015-01-07 18:49:04 UTC,2024-06-10 07:41:56 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/1165643,https://inaturalist-open-data.s3.amazonaws.com/photos/1469654/medium.JPG,,1,0,FALSE,"Tarragona, ES-CT, ES",40.92215172,0.30423268,5,5,,Tricholoma terreum,negrilla,341797
+1167285,1/5/2015,1/5/2015,,Madrid,63379,cesarpollo5,Cesar Pollo,2015-01-08 20:14:42 UTC,2023-07-08 12:12:17 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/1167285,https://inaturalist-open-data.s3.amazonaws.com/photos/1471907/medium.jpg,Hongo sobre el tronco de un Ã¡rbol del gÃ©nero Populus,2,0,FALSE,Valdemudo,42.131455,-4.551313,,,,Fomes fomentarius,Hongo agarico Yesca,127510
+1172301,10/17/2014,10/17/2014,,Madrid,63379,cesarpollo5,Cesar Pollo,2015-01-11 19:00:25 UTC,2024-05-24 16:07:58 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/1172301,https://inaturalist-open-data.s3.amazonaws.com/photos/1479274/medium.JPG,,6,0,FALSE,Paradaseca,42.668049,-6.822856,,,,Amanita muscaria,hongo matamoscas,48715
+1555775,6/10/2014,6/10/2014,,Madrid,106073,dolors,Dolors Bas Vall,2015-05-28 11:06:08 UTC,2017-09-24 03:50:59 UTC,casual,CC-BY-NC,http://www.inaturalist.org/observations/1555775,https://inaturalist-open-data.s3.amazonaws.com/photos/1926207/medium.jpg,"worms normally eat vegetables, but this has eaten by a plant ! They are plants that live in the mountains of Tibet, is the most amazing thing I've ever seen in nature",1,0,FALSE,"Girona, ES-CT, ES",41.92698805,2.987500934,,27723,,Ophiocordyceps sinensis,,179202
+1603302,4/22/2006,4/22/2006,,Madrid,63379,cesarpollo5,Cesar Pollo,2015-06-07 17:45:09 UTC,2023-07-08 11:58:27 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/1603302,https://inaturalist-open-data.s3.amazonaws.com/photos/1971432/medium.JPG,,2,0,FALSE,AlocÃ©n,40.582302,-2.751839,,,,Morchella esculenta,morilla comÃºn,58682
+1693460,4/26/2009 10:58,4/26/2009,2009-04-26 14:58:35 UTC,Eastern Time (US & Canada),51500,rmedina,Rafael Medina,2015-06-26 04:13:34 UTC,2018-08-18 14:34:41 UTC,research,CC-BY,http://www.inaturalist.org/observations/1693460,https://inaturalist-open-data.s3.amazonaws.com/photos/97289/medium.jpg,,3,0,FALSE,"Campamento Las Cabanas, Castille and Leon, Spain",41.855139,-2.802698,,,,Gyromitra esculenta,Falsa colmenilla,85120
+1693462,3/29/2010 7:55,3/29/2010,2010-03-29 11:55:51 UTC,Eastern Time (US & Canada),51500,rmedina,Rafael Medina,2015-06-26 04:13:35 UTC,2024-01-28 06:49:25 UTC,research,CC-BY,http://www.inaturalist.org/observations/1693462,https://inaturalist-open-data.s3.amazonaws.com/photos/2050011/medium.jpg,,2,0,FALSE,"Grazalema, Andalusia, Spain",36.770242,-5.400981,,,,Morchella mediterraneensis,,1062923
+1693463,3/28/2010 11:46,3/28/2010,2010-03-28 15:46:12 UTC,Eastern Time (US & Canada),51500,rmedina,Rafael Medina,2015-06-26 04:13:35 UTC,2022-05-12 19:41:47 UTC,research,CC-BY,http://www.inaturalist.org/observations/1693463,https://inaturalist-open-data.s3.amazonaws.com/photos/2050012/medium.jpg,,6,0,FALSE,"Los Barrios, Andalusia, Spain",36.233473,-5.604057,,,,Clathrus ruber,Hongo jaula roja,56534
+1700093,12/29/2006 10:33,12/29/2006,2006-12-29 15:33:43 UTC,Eastern Time (US & Canada),51500,rmedina,Rafael Medina,2015-06-27 21:48:25 UTC,2018-11-07 15:15:40 UTC,research,CC-BY,http://www.inaturalist.org/observations/1700093,https://inaturalist-open-data.s3.amazonaws.com/photos/2058067/medium.jpg,,2,0,FALSE,"Valencia, Valencia, Spain",39.342794,-0.317916,,,,Hygrocybe conica,Hongo cono de cera,51872
+1731381,12/20/2014,12/20/2014,,Madrid,2608,xbejard,Xavier BÃ©jar,2015-07-07 01:56:59 UTC,2023-01-13 11:24:18 UTC,research,CC-BY-NC-SA,http://www.inaturalist.org/observations/1731381,https://inaturalist-open-data.s3.amazonaws.com/photos/2097887/medium.jpg,,2,0,FALSE,"Girona, ES-CT, ES",42.37673106,2.694596192,24,27661,obscured,Tricholoma terreum,negrilla,341797
+1731396,12/20/2014,12/20/2014,,Madrid,2608,xbejard,Xavier BÃ©jar,2015-07-07 02:01:19 UTC,2021-07-13 12:34:32 UTC,research,CC-BY-NC-SA,http://www.inaturalist.org/observations/1731396,https://inaturalist-open-data.s3.amazonaws.com/photos/2097910/medium.jpg,,2,0,FALSE,"Girona, ES-CT, ES",42.35943599,2.691595362,24,27661,obscured,Lactarius deliciosus,enchilado,155197
+2011221,10/25/2008,10/25/2008 0:00,,Madrid,42608,xavimm75,Xavier Ma Ma,2015-09-29 13:19:51 UTC,2023-10-09 18:11:48 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2011221,https://inaturalist-open-data.s3.amazonaws.com/photos/2449164/medium.JPG,,2,0,FALSE,Tivissa,41.000132,0.745096,625,625,,Mycena seynii,,733189
+2011241,4/22/2011,4/22/2011,,Madrid,42608,xavimm75,Xavier Ma Ma,2015-09-29 13:31:01 UTC,2026-02-26 15:44:54 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2011241,https://inaturalist-open-data.s3.amazonaws.com/photos/2449181/medium.JPG,,4,0,FALSE,Tivissa,41.040861,0.733086,7766,7766,,Clathrus ruber,Hongo jaula roja,56534
+2011246,10/18/2014,10/18/2014,,Madrid,42608,xavimm75,Xavier Ma Ma,2015-09-29 13:33:13 UTC,2026-02-26 15:44:53 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2011246,https://inaturalist-open-data.s3.amazonaws.com/photos/2449186/medium.JPG,,5,0,FALSE,Tivissa,41.040861,0.733086,8646,8646,,Clathrus ruber,Hongo jaula roja,56534
+2011268,11/1/2014,11/1/2014,,Madrid,42608,xavimm75,Xavier Ma Ma,2015-09-29 13:39:27 UTC,2021-11-02 13:01:42 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2011268,https://inaturalist-open-data.s3.amazonaws.com/photos/2449209/medium.JPG,,5,0,FALSE,Tivissa,41.040861,0.733086,6857,6857,,Clathrus ruber,Hongo jaula roja,56534
+2011271,11/26/2011,11/26/2011,,Madrid,42608,xavimm75,Xavier Ma Ma,2015-09-29 13:43:04 UTC,2020-07-18 19:03:47 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2011271,https://inaturalist-open-data.s3.amazonaws.com/photos/2449211/medium.JPG,,1,0,FALSE,Tivissa,41.040861,0.733086,6626,6626,,Amanita ovoidea,,332463
+2032267,7/2/2015,7/2/2015 0:00,,Madrid,137038,eleonoramoratto,,2015-10-02 15:08:41 UTC,2024-02-02 19:54:20 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2032267,https://inaturalist-open-data.s3.amazonaws.com/photos/2465318/medium.jpg,Ectomycorrhizal root tip from soil sample. The fungal species has been identified through ITS rDNA analysis and it is growing in symbiosis with Pinus sylvestris root tip.,3,0,FALSE,Soria,41.863,-2.884,,,,Cenococcum geophilum,,381512
+2032669,7/2/2015,7/2/2015,,Madrid,137038,eleonoramoratto,,2015-10-02 15:59:19 UTC,2025-09-06 21:31:51 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2032669,https://inaturalist-open-data.s3.amazonaws.com/photos/2465382/medium.jpg,Ectomycorrhizal root tip from soil sample. The fungal species has been identified through ITS rDNA analysis and it is growing in symbiosis with Pinus sylvestris root tip.,1,0,FALSE,Soria,41.863,-2.884,,,,Lactarius quieticolor,,474683
+2032693,7/2/2015,7/2/2015,,Madrid,137038,eleonoramoratto,,2015-10-02 16:11:02 UTC,2025-11-06 02:05:08 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2032693,https://inaturalist-open-data.s3.amazonaws.com/photos/2465419/medium.jpg,Ectomycorrhizal root tip from soil sample. The fungal species has been identified through ITS rDNA analysis and it is growing in symbiosis with Pinus sylvestris root tip.,1,0,FALSE,Soria,41.863,-2.884,,,,Piloderma olivaceum,,474685
+2032701,7/2/2015,7/2/2015,,Hawaii,137038,eleonoramoratto,,2015-10-02 16:14:08 UTC,2015-11-16 16:08:03 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2032701,https://inaturalist-open-data.s3.amazonaws.com/photos/2465432/medium.jpg,Ectomycorrhizal root tip from soil sample. The fungal species has been identified through ITS rDNA analysis and it is growing in symbiosis with Pinus sylvestris root tip.,1,0,FALSE,Soria,41.863,-2.884,,,,Piloderma sphaerosporum,,474686
+2032711,7/9/2015,7/9/2015,,Hawaii,137038,eleonoramoratto,,2015-10-02 16:22:51 UTC,2023-01-06 20:09:17 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2032711,https://inaturalist-open-data.s3.amazonaws.com/photos/2465453/medium.jpg,Ectomycorrhizal root tip from soil sample. The fungal species has been identified through ITS rDNA analysis and it is growing in symbiosis with Pinus sylvestris root tip.,1,0,FALSE,Soria,41.863,-2.884,,,,Russula sardonia,RÃºsula acre,130200
+2032718,7/2/2015,7/2/2015,,Madrid,137038,eleonoramoratto,,2015-10-02 16:30:15 UTC,2015-10-11 19:25:46 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2032718,https://inaturalist-open-data.s3.amazonaws.com/photos/2465473/medium.jpg,Ectomycorrhizal root tip from soil sample. The fungal species has been identified through ITS rDNA analysis and it is growing in symbiosis with Pinus sylvestris root tip.,1,0,FALSE,Soria,41.863,-2.884,,,,Russula sanguinea,RÃºsula SanguÃ­nea,352308
+2032719,7/2/2015,7/2/2015 0:00,,Hawaii,137038,eleonoramoratto,,2015-10-02 16:30:55 UTC,2015-11-19 12:54:27 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2032719,https://inaturalist-open-data.s3.amazonaws.com/photos/2465474/medium.jpg,Ectomycorrhizal root tip from soil sample. The fungal species has been identified through ITS rDNA analysis and it is growing in symbiosis with Pinus sylvestris root tip.,2,0,FALSE,Soria,41.863,-2.884,,,,Russula sardonia,RÃºsula acre,130200
+2090559,8/21/2015 12:35,8/21/2015 0:00,2015-08-21 10:35:09 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-09 21:11:48 UTC,2018-01-08 15:38:31 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2090559,https://inaturalist-open-data.s3.amazonaws.com/photos/2501549/medium.JPG,,1,0,FALSE,Tivissa,41.060661,0.767093,496,496,,Russula fragilis,,179715
+2116940,10/13/2006 18:38,10/13/2006 0:00,2006-10-13 16:38:39 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-15 10:01:06 UTC,2024-05-24 16:07:55 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2116940,https://inaturalist-open-data.s3.amazonaws.com/photos/2528222/medium.JPG,,9,0,FALSE,vall fosca,42.390501,0.950704,1536,1536,,Amanita muscaria,hongo matamoscas,48715
+2129500,11/1/2003 13:46,11/1/2003 0:00,2003-11-01 12:46:11 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 07:51:28 UTC,2025-08-08 20:38:00 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2129500,https://inaturalist-open-data.s3.amazonaws.com/photos/2531856/medium.JPG,,10,0,FALSE,peÃ±alen,40.666005,-2.069277,4463,4463,,Amanita muscaria,hongo matamoscas,48715
+2129519,2/24/2008 13:51,2/24/2008 0:00,2008-02-24 12:51:45 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:00:51 UTC,2020-02-02 12:24:26 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2129519,https://inaturalist-open-data.s3.amazonaws.com/photos/2531878/medium.JPG,,1,0,FALSE,Tivissa,41.040861,0.733086,1420,1420,,Tricholoma terreum,negrilla,341797
+2129534,11/1/2003 14:23,11/1/2003 0:00,2003-11-01 13:23:27 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:05:31 UTC,2020-09-01 10:52:23 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2129534,https://inaturalist-open-data.s3.amazonaws.com/photos/2531895/medium.JPG,,1,0,FALSE,PeÃ±alen,40.666005,-2.069277,940,940,,Macrolepiota procera,Matacandil,63401
+2129552,11/25/2011 13:09,11/25/2011,2011-11-25 12:09:30 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:14:52 UTC,2015-10-16 08:14:56 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2129552,https://inaturalist-open-data.s3.amazonaws.com/photos/2531906/medium.JPG,,0,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Suillus granulatus,Panza babosa,179065
+2129556,7/19/2014 12:24,7/19/2014,2014-07-19 10:24:32 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:19:48 UTC,2021-07-08 12:22:32 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2129556,https://inaturalist-open-data.s3.amazonaws.com/photos/2531912/medium.JPG,,3,0,FALSE,Tivissa,41.040861,0.733086,2037,2037,,Russula delica,,352278
+2129559,11/1/2014 13:08,11/1/2014,2014-11-01 12:08:37 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:23:22 UTC,2023-03-07 11:30:11 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2129559,https://inaturalist-open-data.s3.amazonaws.com/photos/2531916/medium.JPG,,1,0,FALSE,Tivissa,41.040861,0.733086,7477,7477,,Hygrophorus limacinus,Llanega negra,1440332
+2129561,11/26/2011 12:57,11/26/2011,2011-11-26 11:57:32 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:24:37 UTC,2015-10-16 08:24:57 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2129561,https://inaturalist-open-data.s3.amazonaws.com/photos/2531918/medium.JPG,,0,0,FALSE,Tivissa,41.040861,0.733086,7030,7030,,Lycoperdon perlatum,Pedo de coyote,48443
+2129564,11/1/2014 13:05,11/1/2014,2014-11-01 12:05:07 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:26:00 UTC,2015-10-16 08:27:04 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2129564,https://inaturalist-open-data.s3.amazonaws.com/photos/2531921/medium.JPG,,0,0,FALSE,Tivissa,41.028866,0.733166,6685,6685,,Rhizopogon roseolus,Criadilla rosada,194079
+2129566,11/1/2014 12:42,11/1/2014,2014-11-01 11:42:14 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:28:29 UTC,2018-12-02 05:00:46 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2129566,https://inaturalist-open-data.s3.amazonaws.com/photos/2531923/medium.JPG,,3,0,FALSE,Tivissa,41.033107,0.734689,7204,7204,,Lactarius sanguifluus,,332501
+2129575,11/11/2011 9:23,11/11/2011,2011-11-11 08:23:57 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:35:28 UTC,2015-10-16 08:35:46 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2129575,https://inaturalist-open-data.s3.amazonaws.com/photos/2531932/medium.JPG,,0,0,FALSE,Tivissa,41.035341,0.729733,7146,7146,,Agaricus bitorquis,ChampiÃ±Ã³n de doble anillo,58696
+2129577,11/25/2011 11:19,11/25/2011,2011-11-25 10:19:24 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-10-16 08:36:11 UTC,2015-10-16 08:36:28 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2129577,https://inaturalist-open-data.s3.amazonaws.com/photos/2531934/medium.JPG,,0,0,FALSE,Tivissa,41.011852,0.748192,8242,8242,,Agaricus bitorquis,ChampiÃ±Ã³n de doble anillo,58696
+2364773,10/31/2015,10/31/2015,,Madrid,88398,patricia_w,Patricia PÃ©rez GarcÃ­a,2015-11-09 17:05:54 UTC,2020-12-02 12:16:11 UTC,research,,http://www.inaturalist.org/observations/2364773,https://static.inaturalist.org/photos/2631525/medium.JPG,,2,0,FALSE,Sierra de Aracena,37.933333,-6.833333,1711,1711,,Crucibulum laeve,,120030
+2380206,Sat Nov 14 2015 15:13:17 GMT+0100 (GMT+1),11/14/2015,2015-11-14 14:13:17 UTC,Amsterdam,149346,jaume2,Jaume Vila,2015-11-14 17:10:00 UTC,2025-10-01 19:21:16 UTC,needs_id,,http://www.inaturalist.org/observations/2380206,https://static.inaturalist.org/photos/2652012/medium.jpg,Bolet d'estrella,2,0,FALSE,"Barcelona, ES-CT, ES",42.141786,2.218241,10,10,,Geastrum michelianum,,1085916
+2424694,9/6/2015,9/6/2015,,Madrid,63379,cesarpollo5,Cesar Pollo,2015-11-25 16:38:30 UTC,2024-12-27 08:50:34 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2424694,https://inaturalist-open-data.s3.amazonaws.com/photos/2699972/medium.JPG,,5,0,FALSE,Madrid,40.413631,-3.68561,,,,Laetiporus sulphureus,Pollo del bosque,53713
+2430280,11/21/2015 12:37,11/21/2015,2015-11-21 11:37:04 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:08:23 UTC,2025-05-18 08:13:26 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2430280,https://inaturalist-open-data.s3.amazonaws.com/photos/2707014/medium.jpeg,,1,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Boletus aereus,Hongo negro,333772
+2430281,11/15/2015,11/15/2015,,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:09:22 UTC,2023-09-21 08:09:54 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2430281,https://inaturalist-open-data.s3.amazonaws.com/photos/2707016/medium.jpg,,4,2,FALSE,Tivissa,41.040861,0.733086,628,628,,Boletus edulis,Hongo cemita rey,48701
+2430286,11/8/2015 11:27,11/8/2015,2015-11-08 10:27:05 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:09:59 UTC,2024-01-21 17:57:58 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2430286,https://inaturalist-open-data.s3.amazonaws.com/photos/2707017/medium.JPG,,0,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Collybia odora,,1525546
+2430288,11/8/2015 13:13,11/8/2015,2015-11-08 12:13:58 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:11:56 UTC,2017-11-16 17:17:35 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2430288,https://inaturalist-open-data.s3.amazonaws.com/photos/2707019/medium.JPG,,1,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Geastrum fimbriatum,,179167
+2430289,11/8/2015 10:30,11/8/2015,2015-11-08 09:30:07 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:12:57 UTC,2018-08-28 16:55:10 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/2430289,https://inaturalist-open-data.s3.amazonaws.com/photos/2707021/medium.JPG,,2,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Hygrophorus russula,Hongo carnita,206118
+2430297,11/8/2015 12:38,11/8/2015,2015-11-08 11:38:22 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:22:58 UTC,2015-11-27 11:23:26 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2430297,https://inaturalist-open-data.s3.amazonaws.com/photos/2707039/medium.JPG,,0,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Lycoperdon perlatum,Pedo de coyote,48443
+2430298,11/8/2015 11:47,11/8/2015,2015-11-08 10:47:07 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:27:51 UTC,2015-11-27 11:28:19 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2430298,https://inaturalist-open-data.s3.amazonaws.com/photos/2707040/medium.JPG,,0,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Macrolepiota mastoidea,,351447
+2430303,11/8/2015 11:02,11/8/2015 0:00,2015-11-08 10:02:09 UTC,Madrid,42608,xavimm75,Xavier Ma Ma,2015-11-27 11:33:03 UTC,2025-10-26 21:02:34 UTC,needs_id,CC-BY-NC,http://www.inaturalist.org/observations/2430303,https://inaturalist-open-data.s3.amazonaws.com/photos/2707047/medium.JPG,,5,0,FALSE,Tivissa,41.040861,0.733086,628,628,,Phlegmacium aurilicis,,1636016
+2509910,12/20/2015 15:49,12/20/2015 0:00,2015-12-20 14:49:28 UTC,Madrid,3785,treegrow,Katja Schulz,2015-12-28 12:15:50 UTC,2025-02-28 09:24:21 UTC,research,CC0,http://www.inaturalist.org/observations/2509910,https://inaturalist-open-data.s3.amazonaws.com/photos/2820182/medium.jpg,"<em>Coprinus</em> sp.  growing in a pile of clipped weeds. Els Poblets, Alicante, Spain.                         ",3,0,FALSE,"Urbanitzacio Les Anfores, Valencia, Spain",38.864982,0.008003,63,63,,Coprinus comatus,Matacandil,47392
+2509911,12/20/2015 15:42,12/20/2015 0:00,2015-12-20 14:42:20 UTC,Madrid,3785,treegrow,Katja Schulz,2015-12-28 12:15:50 UTC,2024-01-19 13:06:10 UTC,research,CC0,http://www.inaturalist.org/observations/2509911,https://inaturalist-open-data.s3.amazonaws.com/photos/2820183/medium.jpg,"<em>Clitocybe nuda</em>, growing in a pile of clipped weeds.   Els Poblets, Alicante, Spain.                            ",1,0,FALSE,"Urbanitzacio Les Anfores, Valencia, Spain",38.864698,0.007542,63,63,,Collybia nuda,Pie azul,1525548
+2571474,12/30/2015 10:48,12/30/2015 0:00,2015-12-30 15:48:14 UTC,Eastern Time (US & Canada),3785,treegrow,Katja Schulz,2016-01-11 02:19:35 UTC,2025-01-01 22:30:51 UTC,research,CC0,http://www.inaturalist.org/observations/2571474,https://inaturalist-open-data.s3.amazonaws.com/photos/2868412/medium.jpg,"<em>Astraeus hygrometricus</em>.  Barranc de la Murta, Benidoleig, Alicante, Spain.                 ",1,0,FALSE,"Benidoleig, Valencia, Spain",38.775875,-0.031446,,,,Astraeus hygrometricus,Hongo estrellita,55271
+2620258,2015-12-19 6:03:03 p.m. CET,12/19/2015 0:00,2015-12-19 17:03:03 UTC,Paris,162452,mguel,MÃ­guel Mogarraz Independiente,2016-01-26 22:53:20 UTC,2016-01-27 16:46:24 UTC,casual,,http://www.inaturalist.org/observations/2620258,,Boletal de encinar pie rugoso.,0,0,FALSE,,41.01068489,-5.850698501,459,459,,Leccinellum lepidum,Boleto agradable,332502
+2715257,2/24/2016 17:20,2/24/2016 0:00,2016-02-24 16:20:54 UTC,Madrid,113034,eduardomartnez,Eduardo MartÃ­nez,2016-02-25 10:49:46 UTC,2022-08-18 15:43:15 UTC,research,CC-BY,http://www.inaturalist.org/observations/2715257,https://inaturalist-open-data.s3.amazonaws.com/photos/3061601/medium.jpg,,1,0,FALSE,Dorve,42.592134,1.14751,,,,Fomes fomentarius,Hongo agarico Yesca,127510
+2750162,Fri Feb 12 2016 09:56:13 GMT+0100 (GMT+1),2/12/2016 0:00,2016-02-12 08:56:13 UTC,Amsterdam,149346,jaume2,Jaume Vila,2016-03-06 08:03:02 UTC,2023-09-16 16:50:06 UTC,research,,http://www.inaturalist.org/observations/2750162,https://static.inaturalist.org/photos/3108556/medium.jpg,,3,1,FALSE,"GIV-4011, Ribes de Freser, Catalunya, ES",42.30324532,2.161329221,5,5,,Astraeus hygrometricus,Hongo estrellita,55271
+3200150,2016-05-18 12:00:45 a. m. CEST,5/18/2016 0:00,2016-05-18 10:00:45 UTC,Paris,157486,lademandamanda,lademandamanda,2016-05-17 22:02:33 UTC,2022-10-18 11:43:27 UTC,research,CC-BY-SA,http://www.inaturalist.org/observations/3200150,https://inaturalist-open-data.s3.amazonaws.com/photos/3703462/medium.jpg,,2,0,FALSE,Monterrubio de la Demanda 09615 Burgos,42.13503148,-3.097983599,16511,16511,,Boletus edulis,Hongo cemita rey,48701
+3250840,12/7/2014,12/7/2014 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-05-21 17:25:13 UTC,2018-10-07 09:30:17 UTC,research,CC0,http://www.inaturalist.org/observations/3250840,https://inaturalist-open-data.s3.amazonaws.com/photos/3760487/medium.JPG,,1,0,FALSE,"MÃ¡laga, ES-AN, ES",36.8316,-4.3934,10,10,,Infundibulicybe geotropa,Cabeza de fraile,451026
+3251131,11/8/2015,11/8/2015 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-05-21 17:34:21 UTC,2024-06-02 18:29:18 UTC,research,CC0,http://www.inaturalist.org/observations/3251131,https://inaturalist-open-data.s3.amazonaws.com/photos/3760833/medium.JPG,Image available on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Omphalotus_olearius_3760833.jpg#Resumen).,1,0,FALSE,"Sevilla, ES-AN, ES",36.93136811,-5.546293259,10,10,,Omphalotus olearius,seta de olivo,64021
+3251492,10/28/2015,10/28/2015 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-05-21 17:46:13 UTC,2017-09-11 13:31:56 UTC,needs_id,CC0,http://www.inaturalist.org/observations/3251492,https://inaturalist-open-data.s3.amazonaws.com/photos/3761268/medium.JPG,,0,0,FALSE,"MÃ¡laga, ES-AN, ES",36.7635,-4.4061,10,10,,Suillus mediterraneensis,,503193
+3251816,10/4/2014,10/4/2014 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-05-21 17:57:39 UTC,2020-01-01 10:21:33 UTC,research,CC0,http://www.inaturalist.org/observations/3251816,https://inaturalist-open-data.s3.amazonaws.com/photos/3761672/medium.JPG,,1,0,FALSE,"MÃ¡laga, ES-AN, ES",36.76968455,-4.414658546,10,10,,Lycoperdon dermoxanthum,,118133
+3251974,11/8/2015,11/8/2015 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-05-21 18:03:26 UTC,2022-05-12 19:41:46 UTC,research,CC0,http://www.inaturalist.org/observations/3251974,https://inaturalist-open-data.s3.amazonaws.com/photos/3761879/medium.JPG,,2,0,FALSE,"CÃ¡diz, ES-AN, ES",36.9483,-5.2918,10,10,,Suillus mediterraneensis,,503193
+3252068,10/19/2014,10/19/2014 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-05-21 18:06:39 UTC,2020-06-02 04:52:05 UTC,needs_id,CC0,http://www.inaturalist.org/observations/3252068,https://inaturalist-open-data.s3.amazonaws.com/photos/3761984/medium.jpg,,0,0,FALSE,"MÃ¡laga, ES-AN, ES",36.7691,-4.4009,10,10,,Suillus mediterraneensis,,503193
+3330781,2016-05-29 10:58:23 a. m. CEST,5/29/2016 0:00,2016-05-29 08:58:23 UTC,Paris,42171,paufortuno,Pau fortuÃ±o estrada,2016-05-29 08:59:42 UTC,2024-06-10 07:41:56 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/3330781,https://inaturalist-open-data.s3.amazonaws.com/photos/3846259/medium.jpeg,,6,0,FALSE,08198 Sant Cugat del VallÃ¨s Barcelona,41.4340993,2.0706562,1100,1100,,Clathrus ruber,Hongo jaula roja,56534
+3333811,2016-05-29 9:45:07 a. m. CEST,5/29/2016 0:00,2016-05-29 07:45:07 UTC,Paris,9379,llus,LluÃ­s Comas,2016-05-29 19:57:03 UTC,2021-11-02 13:02:52 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/3333811,https://inaturalist-open-data.s3.amazonaws.com/photos/3849863/medium.jpeg,,6,0,FALSE,Unnamed Rd 08458 San Pedro de Vilamajor Barcelona,41.72722354,2.38562426,3,3,,Clathrus ruber,Hongo jaula roja,56534
+3395318,1/5/2016,1/5/2016 0:00,,Madrid,63379,cesarpollo5,Cesar Pollo,2016-06-06 17:31:43 UTC,2023-07-08 11:36:13 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/3395318,https://inaturalist-open-data.s3.amazonaws.com/photos/3927721/medium.JPG,,2,0,FALSE,"Calahorra de Ribas, Palencia",42.162139,-4.534443,12,12,,Sarcoscypha coccinea,Copa escarlata,49134
+3759752,2016-07-28 5:53:47 p. m. CEST,7/28/2016 0:00,2016-07-28 15:53:47 UTC,Paris,240623,naturalmonte,@Naturalmonte,2016-07-28 16:14:54 UTC,2023-10-12 00:52:29 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/3759752,https://inaturalist-open-data.s3.amazonaws.com/photos/4378686/medium.jpg,SETA DE CHOPO,2,0,FALSE,19400 Brihuega Guadalajara,40.76715926,-2.874375545,86,86,,Cyclocybe cylindracea,hongo del sauce,578456
+4296269,Sat Oct 08 2016 13:40:21 GMT+0200 (GMT+2),10/8/2016 0:00,2016-10-08 11:40:21 UTC,Africa/Johannesburg,176359,fjsolis,Javier SolÃ­s,2016-10-08 12:14:20 UTC,2025-03-12 09:52:43 UTC,research,CC-BY-SA,http://www.inaturalist.org/observations/4296269,https://inaturalist-open-data.s3.amazonaws.com/photos/5153778/medium.jpg,,2,0,FALSE,"Comunidad Foral de Navarra, ES-NA-NV, ES",42.84518109,-2.177483747,5,5,,Fomes fomentarius,Hongo agarico Yesca,127510
+4296272,Sat Oct 08 2016 13:45:09 GMT+0200 (GMT+2),10/8/2016,2016-10-08 11:45:09 UTC,Africa/Johannesburg,176359,fjsolis,Javier SolÃ­s,2016-10-08 12:14:50 UTC,2025-03-12 09:52:43 UTC,research,CC-BY-SA,http://www.inaturalist.org/observations/4296272,https://inaturalist-open-data.s3.amazonaws.com/photos/5153781/medium.jpg,,3,0,FALSE,"Comunidad Foral de Navarra, ES-NA-NV, ES",42.84514454,-2.177320886,5,5,,Trametes versicolor,Cola de pavo,54134
+4331782,Wed Oct 12 2016 10:42:49 GMT+0200 (GMT+2),10/12/2016,2016-10-12 08:42:49 UTC,Africa/Johannesburg,149346,jaume2,Jaume Vila,2016-10-12 09:59:48 UTC,2018-11-28 21:52:44 UTC,research,,http://www.inaturalist.org/observations/4331782,https://static.inaturalist.org/photos/5200772/medium.jpg,,2,0,FALSE,"CamÃ­ de Sant MoÃ­ als Ferrers, Santa Maria de Besora, Catalunya, ES",42.13556296,2.222406473,5,5,,Lactarius sanguifluus,,332501
+4332310,Wed Oct 12 2016 10:40:05 GMT+0200 (GMT+2),10/12/2016,2016-10-12 08:40:05 UTC,Pretoria,3671,amsuarezm,Angela Suarez-Mayorga,2016-10-12 14:02:14 UTC,2025-01-22 21:42:19 UTC,needs_id,CC-BY-SA,http://colombia.inaturalist.org/observations/4332310,https://static.inaturalist.org/photos/5201221/medium.jpg,"Con babosa de borde naranja
+",1,0,FALSE,"Ruta del Camino de Santiago. Camino FrancÃ©s, Palas de Rei, Galicia, ES",42.87194735,-7.803712199,10,10,,Coprinus comatus,Matacandil,47392
+4371882,2016/10/16 11:50 AM CEST,10/16/2016,2016-10-16 09:50:00 UTC,Paris,42608,xavimm75,Xavier Ma Ma,2016-10-16 21:05:11 UTC,2020-07-18 19:05:33 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/4371882,https://inaturalist-open-data.s3.amazonaws.com/photos/5240444/medium.jpeg,,2,0,FALSE,"Tarragona, Espanya",41.03911298,0.728408028,145,145,,Amanita ovoidea,,332463
+4371883,2016/10/15 12:52 PM CEST,10/15/2016,2016-10-15 10:52:00 UTC,Paris,42608,xavimm75,Xavier Ma Ma,2016-10-16 21:05:11 UTC,2020-06-30 22:54:45 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/4371883,https://inaturalist-open-data.s3.amazonaws.com/photos/5240420/medium.jpeg,,1,0,FALSE,"Tarragona, Espanya",41.03895111,0.728279307,185,185,,Amanita ovoidea,,332463
+4394342,10/19/2016,10/19/2016,,Madrid,172736,dcapillae,Daniel Capilla,2016-10-19 20:25:14 UTC,2025-07-28 21:56:08 UTC,research,CC0,http://www.inaturalist.org/observations/4394342,https://inaturalist-open-data.s3.amazonaws.com/photos/5274331/medium.jpg,"On a carob tree (<em>ceratonia siliqua</em>). Pictures are also available on <a href=""https://commons.wikimedia.org/wiki/File:Chicken_of_the_Woods_%28Laetiporus_sulphureus%29_03.jpg#/media/File:Chicken_of_the_Woods_%28Laetiporus_sulphureus%29_01.jpg"" target=""blanck"" title=""Chicken of the Woods (Wikimedia Commons)""> Wikimedia Commons</a>.",4,0,FALSE,"Finca San JosÃ©, MÃ¡laga, Spain",36.75762,-4.42011,10,10,,Laetiporus sulphureus,Pollo del bosque,53713
+4402980,10/19/2016,10/19/2016,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2016-10-20 23:25:47 UTC,2022-10-18 11:46:53 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/4402980,https://inaturalist-open-data.s3.amazonaws.com/photos/5287870/medium.jpeg,,3,0,FALSE,"Bosque del Salteguet, Collada de Tosses, Girona, Spain.",42.344232,1.985865,,,,Boletus edulis,Hongo cemita rey,48701
+4460872,Sun Oct 30 2016 11:54:39 GMT+0100 (GMT+1),10/30/2016,2016-10-30 10:54:39 UTC,Amsterdam,176359,fjsolis,Javier SolÃ­s,2016-10-30 14:14:46 UTC,2025-03-12 09:52:43 UTC,research,CC-BY-SA,http://www.inaturalist.org/observations/4460872,https://inaturalist-open-data.s3.amazonaws.com/photos/5379164/medium.jpg,,1,0,FALSE,"41880, El Ronquillo, AndalucÃ­a, ES",37.76350333,-6.200463333,,,,Lycoperdon perlatum,Pedo de coyote,48443
+4496376,Fri Nov 04 2016 13:28:27 GMT+0100 (GMT+1),11/4/2016,2016-11-04 12:28:27 UTC,Amsterdam,295572,annemarie11,Annemarie Phyllis Lange,2016-11-05 00:24:33 UTC,2020-11-03 23:28:56 UTC,research,,http://www.inaturalist.org/observations/4496376,https://static.inaturalist.org/photos/5447640/medium.jpg,,2,0,FALSE,"Calle de las Augas, Ourense, Galicia, ES",42.34855333,-7.840903333,,,,Volvopluteus gloiocephalus,,348720
+4512989,11/6/2016,11/6/2016,,Madrid,172736,dcapillae,Daniel Capilla,2016-11-07 17:53:29 UTC,2020-06-02 05:20:30 UTC,needs_id,CC0,http://www.inaturalist.org/observations/4512989,https://inaturalist-open-data.s3.amazonaws.com/photos/5461006/medium.jpg,,0,0,FALSE,"Montes de MÃ¡laga Natural Park, Spain",36.76896,-4.40934,10,10,,Suillus mediterraneensis,,503193
+4530624,2016-11-11 10:24:15 AM CET,11/11/2016,2016-11-11 09:24:15 UTC,Paris,342320,lechu85,,2016-11-11 09:59:25 UTC,2022-05-12 19:41:45 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/4530624,https://inaturalist-open-data.s3.amazonaws.com/photos/5488196/medium.jpeg,,3,0,FALSE,11149 Conil de la Frontera C?diz,36.33275604,-6.096735001,,,,Suillus granulatus,Panza babosa,179065
+4533444,11/11/2016,11/11/2016,,Hawaii,15211,carmelo_lopez,Carmelo LÃ³pez Abad,2016-11-12 00:15:43 UTC,2023-01-13 11:38:45 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/4533444,https://inaturalist-open-data.s3.amazonaws.com/photos/5492952/medium.jpg,,1,0,FALSE,"Riera de MerlÃ©s, Barcelona, Spain.",42.071564,2.000284,,,,Tricholoma caligatum,,125704
+4554587,2016/11/05 4:59 PM CET,11/5/2016,2016-11-05 15:59:00 UTC,Paris,259794,jimarcor,JosÃ© Ignacio MÃ¡rquez Corro,2016-11-13 13:42:21 UTC,2020-12-02 12:18:10 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/4554587,https://inaturalist-open-data.s3.amazonaws.com/photos/5507334/medium.jpeg,,2,0,FALSE,"Vallvidrera - el Tibidabo i les Planes, Barcelona, EspaÃ±a",41.42141555,2.106232643,200,200,,Omphalotus olearius,seta de olivo,64021
+4554589,2016/11/05 5:03 PM CET,11/5/2016 0:00,2016-11-05 16:03:00 UTC,Paris,259794,jimarcor,JosÃ© Ignacio MÃ¡rquez Corro,2016-11-13 13:42:21 UTC,2017-08-31 19:00:52 UTC,research,CC-BY-NC,http://www.inaturalist.org/observations/4554589,https://inaturalist-open-data.s3.amazonaws.com/photos/5507336/medium.jpeg,,1,0,FALSE,"Vallvidrera - el Tibidabo i les Planes, Barcelona, EspaÃ±a",41.42169713,2.106872797,75,75,,Macrolepiota procera,Matacandil,63401
+4578412,Sun Nov 13 2016 12:10:24 GMT+0100 (GMT+1),11/13/2016,2016-11-13 11:10:24 UTC,Amsterdam,361356,trolson,,2016-11-15 23:12:04 UTC,2021-03-01 00:39:15 UTC,research,,http://www.inaturalist.org/observations/4578412,https://static.inaturalist.org/photos/5529041/medium.jpg,,5,0,FALSE,"Carretera de VilobÃ­ d'Onyar, VilobÃ­ d'Onyar, CataluÃ±a, ES",41.86145333,2.743371667,,,,Amanita caesarea,Yema de huevo,204588
+4578501,Sun Nov 13 2016 13:21:56 GMT+0100 (GMT+1),11/13/2016 0:00,2016-11-13 12:21:56 UTC,Amsterdam,361356,trolson,,2016-11-15 23:22:28 UTC,2020-07-09 17:45:41 UTC,research,,http://www.inaturalist.org/observations/4578501,https://static.inaturalist.org/photos/5529090/medium.jpg,,1,0,FALSE,"Carretera de VilobÃ­ d'Onyar, VilobÃ­ d'Onyar, CataluÃ±a, ES",41.861405,2.743945,,,,Naematelia aurantia,Hongo oreja dorada,1109245
+4587636,11/16/2016,11/16/2016 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-11-17 11:18:17 UTC,2017-09-11 13:19:39 UTC,research,CC0,http://www.inaturalist.org/observations/4587636,https://inaturalist-open-data.s3.amazonaws.com/photos/5543098/medium.jpg,"Pileus width: 140-160 mm.
+Fruit-body height: 90-110 mm.",1,0,FALSE,"Montes de MÃ¡laga Natural Park, Spain",36.78534,-4.39522,10,10,,Agaricus campestris,champiÃ±Ã³n de prado,143563
+4639992,11/25/2016 12:12,11/25/2016 0:00,2016-11-25 11:12:47 UTC,Madrid,374902,tmoline,,2016-11-26 10:37:06 UTC,2021-12-28 12:54:25 UTC,needs_id,CC-BY-NC-ND,http://www.inaturalist.org/observations/4639992,https://static.inaturalist.org/photos/5616505/medium.jpg,Hebeloma sinapizans,0,0,FALSE,"Campo, Huesca",42.398414,0.402176,,,,Hebeloma sinapizans,,344561
+4670588,11/28/2016,11/28/2016 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-12-01 08:50:06 UTC,2025-08-20 15:24:13 UTC,needs_id,CC0,http://www.inaturalist.org/observations/4670588,https://inaturalist-open-data.s3.amazonaws.com/photos/5657652/medium.jpeg,"Pileus width: 180-200 mm.
+Fruit-body height: 80-100 mm.",1,0,FALSE,"Montes de MÃ¡laga Natural Park, Spain",36.76612,-4.41348,10,10,,Leucocoprinus leucothites,Enano blanco,1558279
+4680631,12/2/2016,12/2/2016 0:00,,Madrid,172736,dcapillae,Daniel Capilla,2016-12-02 23:00:25 UTC,2017-11-15 16:44:40 UTC,research,CC0,http://www.inaturalist.org/observations/4680631,https://inaturalist-open-data.s3.amazonaws.com/photos/5680271/medium.jpg,"Pileus width: 70-80 mm.
+Fruit-body height: 70-80 mm.",1,0,FALSE,"Presa del Agujero, Montes de MÃ¡laga, Spain",36.77364,-4.43323,10,10,,Agaricus campestris,champiÃ±Ã³n de prado,143563
+4682256,2011/11/21 11:14 AM GMT,11/21/2011 0:00,2011-11-21 11:14:00 UTC,UTC,377505,carlespastor,Carles Pastor,2016-12-03 04:59:03 UTC,2020-09-04 08:09:11 UTC,research,CC-BY-NC-SA,http://www.inaturalist.org/observations/4682256,https://inaturalist-open-data.s3.amazonaws.com/photos/5683523/medium.jpeg,"Nombre comÃºn en:
+CatalÃ¡n: Farinera
+AlemÃ¡n: Eier-Wulstling
+InglÃ©s: European white egg
+Castellano: Amanita ovoide
+FrancÃ©s: Oronge blanche
+Italiano: Farinaccio
+
+http://www.avesfotos.eu/hongo-amanita-ovoide.html",2,0,FALSE,"Barcelona, EspaÃ±a",41.27187188,2.041139603,61,61,,Amanita ovoidea,,332463
+4682257,2011/11/21 11:12 AM GMT,11/21/2011 0:00,2011-11-21 11:12:00 UTC,UTC,377505,carlespastor,Carles Pastor,2016-12-03 04:59:03 UTC,2020-09-04 08:09:16 UTC,research,CC-BY-NC-SA,http://www.inaturalist.org/observations/4682257,https://inaturalist-open-data.s3.amazonaws.com/photos/5683524/medium.jpeg,"Nombre comÃºn en:
+CatalÃ¡n: Farinera
+AlemÃ¡n: Eier-Wulstling
+InglÃ©s: European white egg
+Castellano: Amanita ovoide
+FrancÃ©s: Oronge blanche
+Italiano: Farinaccio
+
+http://www.avesfotos.eu/hongo-amanita-ovoide.html",2,0,FALSE,"Barcelona, EspaÃ±a",41.27216217,2.041525841,15,15,,Amanita ovoidea,,332463
+4682258,2011/11/21 11:11 AM GMT,11/21/2011 0:00,2011-11-21 11:11:00 UTC,UTC,377505,carlespastor,Carles Pastor,2016-12-03 04:59:03 UTC,2020-09-04 08:09:29 UTC,research,CC-BY-NC-SA,http://www.inaturalist.org/observations/4682258,https://inaturalist-open-data.s3.amazonaws.com/photos/5683526/medium.jpeg,"Nombre comÃºn en:
+CatalÃ¡n: Farinera
+AlemÃ¡n: Eier-Wulstling
+InglÃ©s: European white egg
+Castellano: Amanita ovoide
+FrancÃ©s: Oronge blanche
+Italiano: Farinaccio
+
+http://www.avesfotos.eu/hongo-amanita-ovoide.html",2,0,FALSE,"Barcelona, EspaÃ±a",41.27208153,2.040774822,15,15,,Amanita ovoidea,,332463
+4683202,2008/05/18 8:11 AM BST,5/18/2008 0:00,2008-05-18 07:11:00 UTC,Europe/London,377505,carlespastor,Carles Pastor,2016-12-03 10:37:29 UTC,2016-12-03 17:03:11 UTC,needs_id,CC-BY-NC-SA,http://www.inaturalist.org/observations/4683202,https://inaturalist-open-data.s3.amazonaws.com/photos/5685444/medium.jpeg,"Nombre comÃºn en:
+CatalÃ¡n: Camperol
+AlemÃ¡n: Wiesen-champignon
+InglÃ©s: Field mushroom
+Castellano: ChampiÃ±Ã³n de prado
+Euskera: Barren-gorri
+FrancÃ©s.: RosÃ© des prÃ©s
+Gallego: Fungo dos lameiros
+Italiano: Prataiolo
+Polaco: Pieczarka szlachetna
+http://www.avesfotos.eu/hongo-agaricus-campestris.html",0,0,FALSE,"Soria, EspaÃ±a",41.51802486,-2.901944575,1043,1043,,Agaricus campestris,champiÃ±Ã³n de prado,143563
+4684259,2016-12-03 6:11:32 PM CET,12/3/2016 0:00,2016-12-03 17:11:32 UTC,Paris,378370,adrin7,AdriÃ¡n AB,2016-12-03 17:13:58 UTC,2018-12-31 15:39:49 UTC,research,,http://www.inaturalist.org/observations/4684259,https://static.inaturalist.org/photos/5686846/medium.jpg,,3,0,FALSE,Luesia 50619 Zaragoza,42.4177493,-0.987056941,22014,22014,,Macrolepiota procera,Matacandil,63401
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
