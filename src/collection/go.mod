@@ -1,3 +1,3 @@
-module download_images_legacy
+module download_images
 
 go 1.26.1
